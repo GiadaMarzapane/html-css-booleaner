@@ -1,0 +1,29 @@
+.container-header{
+    background-image: url('../img/pattern.png');
+    background-color: #4da1ff;
+    background-size: contain;
+}
+.img-logo{
+    width: 200px;
+    height: 80px;
+    margin-top: 20px;
+}
+h1{
+    margin-bottom: 3px;
+}
+.sottotitolo{
+    color: grey;
+    margin: 1px;
+    font-weight: bold;
+}
+#link-sottotitolo{
+    text-decoration: none;
+    color: #20ade7;
+}
+.sottotitolo.data{
+font-size: 12px;
+}
+.photo-description{
+    margin-top: 0;
+    font-size: 12px;
+}
