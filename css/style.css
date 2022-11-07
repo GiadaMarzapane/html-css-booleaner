@@ -1,3 +1,6 @@
+body{
+    width: 80%;
+}
 .container-header{
     background-image: url('../img/pattern.png');
     background-color: #4da1ff;
@@ -10,6 +13,7 @@
 }
 h1{
     margin-bottom: 3px;
+    font-size: 40px;
 }
 .sottotitolo{
     color: grey;
@@ -26,4 +30,25 @@ font-size: 12px;
 .photo-description{
     margin-top: 0;
     font-size: 12px;
+}
+.highlighted-text{
+    background-color: yellow;
+}
+.cella{
+    width: 25%;
+    text-align: left;
+}
+.cella-lunga{
+    width: 50%;
+    text-align: left;
+}
+
+.row-head{
+    background-color: #1aabe6;
+}
+.row-body{
+    background-color: #b2e6f2;
+}
+table{
+    border-spacing: 0px;
 }
