@@ -34,6 +34,9 @@ font-size: 12px;
 .highlighted-text{
     background-color: yellow;
 }
+ul{
+    padding: 15px;
+}
 .cella{
     width: 25%;
     text-align: left;
@@ -45,6 +48,7 @@ font-size: 12px;
 
 .row-head{
     background-color: #1aabe6;
+    color: white;
 }
 .row-body{
     background-color: #b2e6f2;
