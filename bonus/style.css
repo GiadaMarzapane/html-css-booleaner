@@ -1,10 +1,15 @@
-body{
-    width: 80%;
+main{
+    width: 65%;
+    margin: auto;
+}
+header{
+    background-image: url('../img/pattern.png');
+    background-size: contain;
+    background-color: #4da1ff;
 }
 .container-header{
-    background-image: url('../img/pattern.png');
-    background-color: #4da1ff;
-    background-size: contain;
+    width: 65%;
+    margin: auto;
 }
 .img-logo{
     width: 200px;
