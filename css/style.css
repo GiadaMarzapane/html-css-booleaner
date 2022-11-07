@@ -9,7 +9,8 @@ body{
 .img-logo{
     width: 200px;
     height: 80px;
-    margin-top: 20px;
+    margin-top: 30px;
+    margin-bottom: 5px;
 }
 h1{
     margin-bottom: 3px;
@@ -55,4 +56,21 @@ ul{
 }
 table{
     border-spacing: 0px;
+}
+.finale-articolo{
+    width: 210px;
+    height: 160px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-position: center;
+}
+#graph{
+    background-image: url('../img/graph.jpg');
+}
+#monitor{
+    background-image: url('../img/monitor.jpg');
+}
+.photo-bottom{
+    color: white;
+    padding: 5px;
 }
